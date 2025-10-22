@@ -54,7 +54,7 @@ body {
   border-radius: 6px;
 }
 
-/* ===== HERO ===== */
+/* ===== Greeting ===== */
 .hero {
   display: flex;
   align-items: center;
@@ -133,7 +133,7 @@ body {
   text-align: center;
   padding: 3rem 2rem;
   background: var(--primary);
-  color: var(--white);
+  color: var(--accent);
 }
 
 /* ===== FOOTER ===== */
